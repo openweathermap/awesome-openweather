@@ -11,6 +11,7 @@ OpenWeather APIs.
 
 ## Libraries
 
+* [gowm](https://github.com/ryeguard/gowm) - A Go (golang) wrapper, a MCP (Model Context Protocol) server, and a CLI for the OpenWeatherMap APIs.
 * [OpenWeatherMap-PHP-API](https://github.com/cmfcmf/OpenWeatherMap-PHP-API) - PHP wrapper for
   OpenWeather API to retrieve and parse global weather data
 * [pyowm](https://github.com/csparpa/pyowm) - Python wrapper around the OpenWeather API
